@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kethan Kumar Reddy</h1>
-<h2 align="center">Passionate about Web Development & Deep Learning</h2>
+<h2 align="center">Passionate about Web Development & Dev Ops</h2>
 
 ### About Me: 🙋‍♂️
 - 🎓 I’m currently Studying B.Tech In **G. Pulla Reddy Engineering college**
