@@ -2,7 +2,6 @@
 <h2 align="center">Passionate about Web Development & Dev Ops</h2>
 
 ### About Me: 🙋‍♂️
-- 🎓 I’m currently Studying B.Tech In **G. Pulla Reddy Engineering college**
 - 🌱 Exploring MERN and DevOps
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kethan039&label=Profile%20views&color=0e75b6&style=flat" alt="ke" /> </p>
